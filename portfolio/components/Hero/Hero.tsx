@@ -28,7 +28,7 @@ const Hero = () => {
             />
 
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                Hi i&apos;m Eliantte, Web and Mobile Application Developer.
+                Hi i&apos;m <span className="font-semibold text-purple">Koketso</span>, a web and mobile application developer.
             </p>
 
             <a href="#about">
